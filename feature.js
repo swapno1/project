@@ -3,3 +3,4 @@ function hello(){
     print("Hello");
   }
 }
+print ("Bye bro");
